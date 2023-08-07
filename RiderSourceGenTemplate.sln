@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiderSourceGenTemplate", "RiderSourceGenTemplate\RiderSourceGenTemplate\RiderSourceGenTemplate.csproj", "{CEF07AEC-FD41-449D-B65C-4FEAEB94320B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiderSourceGenTemplate.Sample", "RiderSourceGenTemplate\RiderSourceGenTemplate.Sample\RiderSourceGenTemplate.Sample.csproj", "{725907A5-624F-41A3-9606-CE8BF4302B82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiderSourceGenTemplate.Tests", "RiderSourceGenTemplate\RiderSourceGenTemplate.Tests\RiderSourceGenTemplate.Tests.csproj", "{65DEA27E-F0D9-466F-9ED3-FDAB836D55E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEF07AEC-FD41-449D-B65C-4FEAEB94320B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF07AEC-FD41-449D-B65C-4FEAEB94320B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF07AEC-FD41-449D-B65C-4FEAEB94320B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF07AEC-FD41-449D-B65C-4FEAEB94320B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{725907A5-624F-41A3-9606-CE8BF4302B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{725907A5-624F-41A3-9606-CE8BF4302B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{725907A5-624F-41A3-9606-CE8BF4302B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{725907A5-624F-41A3-9606-CE8BF4302B82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65DEA27E-F0D9-466F-9ED3-FDAB836D55E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65DEA27E-F0D9-466F-9ED3-FDAB836D55E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65DEA27E-F0D9-466F-9ED3-FDAB836D55E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65DEA27E-F0D9-466F-9ED3-FDAB836D55E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
